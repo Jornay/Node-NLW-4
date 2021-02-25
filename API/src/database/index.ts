@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import {Connection, createConnection, getConnectionOptions} from 'typeorm';
 
 export default async (): Promise<Connection> => {
@@ -11,3 +12,8 @@ export default async (): Promise<Connection> => {
         })
     )
 }
+=======
+import {createConnection} from 'typeorm';
+
+createConnection();
+>>>>>>> 90449839de82ab2c4c4c938f7a36d74cf30a87f3
