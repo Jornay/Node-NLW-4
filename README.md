@@ -1,1 +1,1 @@
-# NextLevelWeek-4 trilha node
+# **Project built during NextLevelWeek 4 following a NodeJS trail**
